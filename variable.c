@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    int num1 = 10;
+    int num1 = 100;
     float num2 = 10.52386;
     char ch = 'A';
 
